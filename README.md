@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Liumy
 
-- 🔭 I’m currently working on Shopee at Shenzhen as a Frontend engineer
-- 🌱 I’m currently doing something fun
-- ⚡ Fun fact: When a fish is hooked, the float some times will float instead of always sinking
+- 👨‍💻 I’m currently working on Shopee at Shenzhen as a Senior Frontend engineer
+- 🐟 I love coding, fishing, and video games
+- 🕙 Recently doing something fun with Don't Starve Together, 👉[have a look](https://playdst.com).
 
-You can reach me in [Twitter](http://twitter.com/alephantand)
+You can reach me in [Twitter](http://twitter.com/alephantand).
